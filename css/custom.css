@@ -1,0 +1,21 @@
+body {
+	background-color: #fff;
+}
+
+.promesse {
+	margin-top: 150px;
+}
+
+.jumbotron h1 {
+	font-size: 36px;
+}
+.jumbotron p, .jumbotron ul li {
+	font-size: 18px;
+}
+#command img {
+	max-width: 70%;
+}
+.jumbotron {
+	background-color: #0c8698;
+	color: #fff;
+}
